@@ -1,0 +1,16 @@
+{
+  "name": "productapp",
+  "version": "1.0.0",
+  "description": "This is product application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^4.13.18"
+  }
+}
